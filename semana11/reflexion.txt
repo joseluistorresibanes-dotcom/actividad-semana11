@@ -1,0 +1,10 @@
+Una plataforma tecnológica debe tener una base de datos para almacenar la información de manera organizada.
+Esto permite registrar usuarios, causas comunitarias y los apoyos recibidos.
+La autenticación de usuarios verifica la identidad de cada persona que ingresa al sistema.
+Así, solo los usuarios autorizados pueden acceder a funciones específicas.
+También evita accesos no permitidos y protege la información de la plataforma.
+La protección de datos es importante para cuidar la privacidad de los usuarios.
+No deben exponerse contraseñas, documentos, teléfonos ni otros datos sensibles.
+Estas medidas aumentan la confianza de los ciudadanos en la plataforma.
+Además, ayudan a mantener la información segura, confiable y disponible.
+Por ello, la base de datos, la autenticación y la seguridad son fundamentales.
